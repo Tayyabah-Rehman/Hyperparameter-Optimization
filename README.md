@@ -31,14 +31,6 @@ This project implements a complete **Linear Regression pipeline** on the Califor
 
 ---
 
-## 📉 Predicted vs Actual Plot
-
-![Predicted vs Actual](predicted_vs_actual.png)
-
-> Red dashed line = perfect prediction (y = x). Points closer to the line = more accurate predictions.
-
----
-
 ## 📁 Project Structure
 
 ```
